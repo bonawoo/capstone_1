@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Smart Bicycle - 캡스톤디자인1
 
-You can use the [editor on GitHub](https://github.com/bonawoo/capstone_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SW : 중앙대학교 기계공학부 곽우찬
+HW : 중앙대학교 기계공학부 이건휘
 
 ## 📖 Gantt :fire:
 
