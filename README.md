@@ -9,18 +9,13 @@ HW : 중앙대학교 기계공학부 이건휘
 gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
-    section AI
-    AI 기술테스트  : a1, 2020-10-14, 10d
-    가상 얼굴 학습 및 환경세팅  : 2020-10-14, 10d
-    얼굴 인식 개선 및 적용 : after a1, 10d
-    가상 얼굴 이미지 생성 및 분류 : after a1, 4d
 
-    section Front-end
-    와이어프레임     :a1,2020-10-14  , 10d
-    react 학습 및 적용 : after a1,  10d
-    사진 업로드 및 설정 기능 :after a1 , 10d
+    section SW
+    YOLO 안전모 영상 인식     :a1,2022-04-03  , 30d
+    주행 여부 판단 알고리즘 개발 : after a1,  20d
+    넘어짐 사고 판단 알고리즘 개발 :after a1 , 20d
 
-    section Back-end
+    section HW
     django 학습 및 적용 : a1,2020-10-14 , 10d
     회원기능      :a2,after a1 , 10d
     친구기능      :after a1  ,10d
