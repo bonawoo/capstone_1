@@ -7,7 +7,7 @@ HW : 중앙대학교 기계공학부 이건휘
 
 ```mermaid
 gantt
-    title 간트 차트
+    title Smart Bicycle 개발 계획
     dateFormat  YYYY-MM-DD
 
     section SW
