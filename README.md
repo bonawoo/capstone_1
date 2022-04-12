@@ -7,20 +7,16 @@ HW : 중앙대학교 기계공학부 이건휘
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title 간트 차트
     dateFormat  YYYY-MM-DD
 
     section SW
     YOLO 안전모 영상 인식     :a1,2022-04-03  , 30d
-    주행 여부 판단 알고리즘 개발 : after a1,  20d
-    넘어짐 사고 판단 알고리즘 개발 :after a1 , 20d
+    주행 여부 판단 알고리즘 개발 : a2, after a1,  20d
+    넘어짐 사고 판단 알고리즘 개발 :after a2 , 20d
 
     section HW
-    django 학습 및 적용 : a1,2020-10-14 , 10d
-    회원기능      :a2,after a1 , 10d
-    친구기능      :after a1  ,10d
-    결과 이미지저장,공유  : a3,after a2, 2d
-    스티커 기능  : a4,after a3, 2d
+    django 학습 및 적용 : b1,2022-04-03 , 10d
 ```
 # Header 1
 ## Header 2
